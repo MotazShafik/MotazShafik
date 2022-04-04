@@ -5,11 +5,15 @@
 
 ### <div align="center">- 👋 Hi, Github Community
 
-I’m @MotazShafik a Software Engineer ,and a Full Stack developer, I have a comprehensive skill set in JavaScript and Node Js and talents honed in HTML and CSS.
+I’m @MotazShafik a Software Engineer and a Full Stack developer. I have a comprehensive skill set in JavaScript and Node Js and talents honed in HTML and CSS.
+
 Furthermore, I am a Certified Project Management Professional (PMP).
+
 Previous roles have enhanced my interpersonal and innovation abilities, including keen attention to detail and accuracy.
-I am a quality specialist and HSE professional with over 15 years of working experience in various industries and with leading organizations in the MENA region; Provide management, leadership and technical oversight of strategic quality, health, safety and environment initiatives aligned with company policies, business objectives and organizational requirements to achieve continuous performance through operational excellence and lean methods and a
-Passionate developer who has directly tested the full range projects.</div>  
+
+I am a Quality and HSE professional with over 15 years of working experience in various industries and with leading organizations in the MENA region. Provide management, leadership and technical oversight of strategic quality, health, safety and environment initiatives aligned with company policies, business objectives and organizational requirements. This will enable continuous performance through operational excellence and lean methods.
+
+Passionate developer who has worked on a wide range of projects.</div>  
   
 
 - 👀 I’m interested in Programming
