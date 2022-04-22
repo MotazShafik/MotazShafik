@@ -17,7 +17,6 @@ Passionate developer who has worked on a wide range of projects.</div>
   
 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning REACT
 - ❓ Ask me about anything related to Full Stack and related technologies
 - 📫 How to reach me Motaz.Shafik@hotmail.com
 
